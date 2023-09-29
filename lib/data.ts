@@ -44,6 +44,6 @@ export const testimonials = [
   {
     writer: "Emma",
     testimonal:
-      "Thank you, Jimmy, for providing an exceptional car buying experience. Your expertise and professionalism made it easy for me to find the perfect car. I highly recommend you car sale business to anyone in Larnaca looking for quality vehicles and exceptional service.",
+      "Thank you, for providing an exceptional car buying experience. Your expertise and professionalism made it easy for me to find the perfect car. I highly recommend you car sale business to anyone in Larnaca looking for quality vehicles and exceptional service.",
   },
 ] as const;

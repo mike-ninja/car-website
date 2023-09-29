@@ -11,7 +11,7 @@ export default function Contact() {
             className="absolute inset-0"
             title="map"
             loading="lazy"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13084.145129330984!2d33.6250901!3d34.930627!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14de280445aa00c9%3A0x6b878db4fdc0d756!2sJIMMYS%20CARS!5e0!3m2!1sen!2sfi!4v1695907560501!5m2!1sen!2sfi"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52355.19567638446!2d33.57894967580604!3d34.90143691412343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14e082a16c40cb13%3A0x4fcbf0221371d0a5!2sLarnaca%2C%20Cyprus!5e0!3m2!1sen!2sfi!4v1695987859606!5m2!1sen!2sfi"
             style={{ filter: "grayscale(0.5) contrast(1.2) opacity(0.4)" }}
           >
           </iframe>
@@ -77,7 +77,7 @@ export default function Contact() {
             <span className="absolute top-0 left-0 h-full w-full rounded bg-gray-700">
             </span>
             <span className="mt-1 ml-1 fold-bold relative inline-block h-full w-full rounded border-2 border-gray-950 bg-gray-950 px-3 py-1 text-xl font-bold text-white transition duration-100 hover:-translate-x-1 hover:-translate-y-1 focus:-translate-x-1 focus:-translate-y-1 active:scale-95">
-             Send 
+              Send
             </span>
           </button>
         </div>

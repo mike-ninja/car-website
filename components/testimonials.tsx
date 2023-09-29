@@ -16,10 +16,10 @@ export default function Testimonials() {
           </div>
         </div>
 
-        <div className="absolute top-0 right-0 bottom-0 transform -skew-y-6 bg-slate-900 w-1/2 z-0">
+        <div className="absolute top-0 right-0 bottom-0 transform -skew-y-6 bg-slate-900 w-1/2 z-0 -translate-x-1">
         </div>
 
-        <div className="absolute top-0 left-0 bottom-0 transform skew-y-6 bg-slate-900 w-1/2 z-0">
+        <div className="absolute top-0 left-0 bottom-0 transform skew-y-6 bg-slate-900 w-1/2 z-0 translate-x-1">
         </div>
       </div>
       <Image
